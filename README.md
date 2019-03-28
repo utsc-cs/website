@@ -1,3 +1,6 @@
+## About the Undergraduate Research Group 
+* Check out our [project pages](website/blob/master/project_list)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/utsc-cs/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
