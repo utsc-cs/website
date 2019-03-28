@@ -1,3 +1,4 @@
+[Home](README.md)
 
 ## Undergraduate Students
 There are several ways to get started
