@@ -1,5 +1,6 @@
 ## About the Undergraduate Research Group 
 * Check out our [project pages](project_list.md)
+* Learn [how to get involved](getting_started.md)
 
 ## Welcome to GitHub Pages
 
