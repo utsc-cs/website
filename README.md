@@ -1,5 +1,5 @@
 ## About the Undergraduate Research Group 
-* Check out our [project pages](https://github.com/utsc-cs/website/blob/master/project_list.md)
+* Check out our [project pages](project_list.md)
 
 ## Welcome to GitHub Pages
 
