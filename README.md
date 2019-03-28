@@ -1,6 +1,7 @@
 ## About the Undergraduate Research Group 
 * Check out our [project pages](project_list.md)
 * Learn [how to get involved](getting_started.md)
+* Join the [Zotero group](https://www.zotero.org/groups/2309826/utsc-undergraduate-research)
 
 ## Welcome to GitHub Pages
 
